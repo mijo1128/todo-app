@@ -40,3 +40,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+api/myenv
+/home/luis/projects/hbs-frontend/api/myenv
